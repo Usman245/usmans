@@ -22,7 +22,7 @@ const Contact = () => {
             className="text-sm p-4 px-6 border-2 block mx-auto w-fit font-mono capitalize rounded border-accent text-accent hover:bg-accent-light focus:outline-none focus:bg-accent-light duration-150 cursor-pointer mt-12"
             target="_blank"
             rel="noopener noreferrer"
-            href="mailto:arbabmachi132@gmail.com"
+            href="mailto:usmanpk16t@gmail.com"
           >
             Say Hello
           </a>
